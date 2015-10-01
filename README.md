@@ -6,7 +6,7 @@ A shell script to fix permissions when npm is installed as root
 
 Download the script, and run it:
 ```
-.sh npm-g-nosudo.sh
+sh npm-g-nosudo.sh
 ```
 or 
 ```
